@@ -10,7 +10,7 @@
 
 ```bash
 # clone the project
-
+https://github.com/web-bmy/bmy_admin.git
 # enter the project directory
 cd bmy_admin
 
